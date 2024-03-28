@@ -135,7 +135,7 @@
     "eslint": "^8.52.0",
     "eslint-plugin-header": "^3.1.1",
     "eslint-plugin-react": "^7.33.2",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "glob": "^7.2.0",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
